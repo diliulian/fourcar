@@ -108,6 +108,6 @@
 
 ## 版权所有
 - [@第六连团队](http://www.feiyuanxing.com)
-- 邮箱：<creditchinatech@baidu.com>
+- 邮箱：<weilx@weilx.com>
 
 ---------
